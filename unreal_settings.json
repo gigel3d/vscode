@@ -1,0 +1,14 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\nazwa\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "E:\\Projekty\\Unreal Projects\\ShaderLibrary\\Intermediate\\PythonStub"
+    ],
+    "python.analysis.extraPaths": [
+        "E:\\Projekty\\Unreal Projects\\ShaderLibrary\\Intermediate\\PythonStub"
+    ],
+    "window.newWindowProfile": null,
+    "workbench.settings.applyToAllProfiles": [],
+    "python.analysis.aiCodeActions": {
+        "implementAbstractClasses": true
+    }
+}

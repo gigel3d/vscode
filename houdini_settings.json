@@ -1,0 +1,40 @@
+{
+    "python.defaultInterpreterPath": "E:/Programy/Side Effects Software/Houdini 20.5.584/python311/python.exe",
+    "python.autoComplete.extraPaths": [
+
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/houdini/python3.11libs",
+    ],
+    "python.analysis.extraPaths": [
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/python311/lib/site-packages-forced",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/python311/lib/site-packages-forced",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/python311/lib/site-packages-ui-forced",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/python311/lib/site-packages-forced",
+        "C:/Users/nazwa",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/bin/python311.zip",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/python311/dlls",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/python311/lib",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/bin",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/python311",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/python311/lib/site-packages",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/packages/sculpt/python3.11libs",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/packages/kinefx/python3.11libs",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/packages/apex/python3.11libs",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/houdini/python3.11libs",
+        "E:/Programy/Side Effects Software/sidefx_packages/SideFXLabs20.5/scripts/python",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/packages/kinefx/viewer_states",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/packages/apex/viewer_states",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/houdini/viewer_states",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/packages/kinefx/viewer_handles",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/houdini/viewer_handles",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/python311/lib/site-packages",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/houdini/python3.11libs",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/python311/lib/site-packages",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/houdini/python3.11libs",
+        "E:/Programy/Side Effects Software/Houdini 20.5.584/python311/lib/site-packages",
+        "E:/Programy/Side Effects Software/sidefx_packages/SideFXLabs20.5/viewer_states"
+    ],
+    "python.analysis.aiCodeActions": {
+
+    },
+    "python.analysis.stubPath": "E:/Programy/Side Effects Software/houdiniStubsGenerator/stubs"
+}

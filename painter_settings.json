@@ -1,0 +1,13 @@
+{   "python.defaultInterpreterPath": "E:\\Programy\\Adobe\\Adobe Substance 3D Painter\\resources\\pythonsdk\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "E:/Programy/Adobe/Adobe Substance 3D Painter/resources/python/modules",
+        "E:/Programy/Adobe/Adobe Substance 3D Painter/resources/pythonsdk/Lib",
+        "C:/Users/nazwa/Documents/Adobe/Adobe Substance 3D Painter/python/modules"
+    ],
+    "python.analysis.extraPaths": [
+        "E:/Programy/Adobe/Adobe Substance 3D Painter/resources/python/modules",
+        "E:/Programy/Adobe/Adobe Substance 3D Painter/resources/pythonsdk/Lib",
+        "C:/Users/nazwa/Documents/Adobe/Adobe Substance 3D Painter/python/modules"
+    ],
+    "python.analysis.aiCodeActions": {}
+}

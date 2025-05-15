@@ -1,0 +1,19 @@
+{   
+    "python.defaultInterpreterPath": "E:\\Programy\\Adobe\\Adobe Substance 3D Designer\\plugins\\pythonsdk\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "E:/Programy/Adobe/Adobe Substance 3D Designer/plugins/pythonsdk/Lib",
+        "E:/Programy/Adobe/Adobe Substance 3D Designer/plugins/pythonsdk/Lib/site-packages",
+        "E:/Programy/Adobe/Adobe Substance 3D Designer/plugins/pythonsdk/libs/python311.lib",
+        "E:/Programy/Adobe/Adobe Substance 3D Designer/resources/python",
+        "E:/Programy/Adobe/Adobe Substance 3D Designer/resources/python/sd",
+    ],
+    "python.analysis.extraPaths": [
+        "E:/Programy/Adobe/Adobe Substance 3D Designer/plugins/pythonsdk/Lib",
+        "E:/Programy/Adobe/Adobe Substance 3D Designer/plugins/pythonsdk/Lib/site-packages",
+        "E:/Programy/Adobe/Adobe Substance 3D Designer/plugins/pythonsdk/libs/python311.lib",
+        "E:/Programy/Adobe/Adobe Substance 3D Designer/resources/python",
+        "E:/Programy/Adobe/Adobe Substance 3D Designer/resources/python/sd",
+    ],
+    "python.analysis.aiCodeActions": {
+    }
+}
